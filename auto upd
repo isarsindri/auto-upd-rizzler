@@ -1,75 +1,75 @@
 return {
 	"Roses are red. Violets are fine. You be the six. I’ll be the nine.", -- 1 
 	"I have Netflix at home, want to chill?", -- 2
-  "I was feeling very off today, but then you turned me on.", -- 3
+	"I was feeling very off today, but then you turned me on.", -- 3
 	"Are you religious? Because you’re the answer to my prayers.", -- 4
-  "I have 206 bones in my body. Want to give me another one?", -- 5
-  "I looked up “happily ever after” on my GPS and it led me to you.", -- 6
-  "I’m not a weatherman, but you can expect a few more inches tonight.", -- 7
+	"I have 206 bones in my body. Want to give me another one?", -- 5
+	"I looked up “happily ever after” on my GPS and it led me to you.", -- 6
+	"I’m not a weatherman, but you can expect a few more inches tonight.", -- 7
 	"Is it too hot in here, or is it just you?", -- 8
-  "Are you an archaeologist? Because I’ve got a large bone for you to examine.", -- 9
+	"Are you an archaeologist? Because I’ve got a large bone for you to examine.", -- 9
 	"What’s your favorite Disney princess? I know mine is right in front of me.", -- 10
-  "Did you make Santa’s naughty list this year? You want to?", -- 11
+	"Did you make Santa’s naughty list this year? You want to?", -- 11
 	"Are you caffeine? My heart is suddenly racing.", -- 12
-  "If you look that good in clothes, you must look even better out of them.", -- 13
-  "Do you like going to the Casino? I would definitely bet on you.", -- 14
-  "I’m an adventurer and I want to explore you.", -- 15
+	"If you look that good in clothes, you must look even better out of them.", -- 13
+	"Do you like going to the Casino? I would definitely bet on you.", -- 14
+	"I’m an adventurer and I want to explore you.", -- 15
 	"Did you know that we’re closer to the year 2050 than we are to 1995? And I’m feeling closer to you than I am to myself.", -- 16
-  "Does your name start with “C” because I can “C” us getting down.", -- 17
+	"Does your name start with “C” because I can “C” us getting down.", -- 17
 	"I think I just won the lottery, the grand prize is right in front of me.", -- 18
-  "Is your name winter? Because you’ll be coming soon.", -- 19
+	"Is your name winter? Because you’ll be coming soon.", -- 19
 	"Are you a Black Hole? I’m definitely feeling the gravitational pull towards you.", -- 20
-  "If I was the judge, I’d sentence you to my bed", -- 21
+	"If I was the judge, I’d sentence you to my bed", -- 21
 	"Are you a carpenter? Because I have this wooden log that I need help with.", -- 22
-  "I’m not feeling myself today. Can I feel you instead?", -- 23
+	"I’m not feeling myself today. Can I feel you instead?", -- 23
 	"Do you like “knock-knock” jokes? Because you just knocked me off my feet.", -- 24
-  "Someone should call the police because you just stole my heart!", -- 25
+	"Someone should call the police because you just stole my heart!", -- 25
 	"Our kids will look gorgeous, let’s go make some.", -- 26
-  "I’m not a dentist, but I bet I could give you a filling.", -- 27
+	"I’m not a dentist, but I bet I could give you a filling.", -- 27
 	"Without any pen or paper, you still draw my attention.", -- 28
-  "I wish you were here to play ‘Simon Says’ with me… in bed", -- 29
+	"I wish you were here to play ‘Simon Says’ with me… in bed", -- 29
 	"Between hotdogs and meatballs, which one would you eat first? Just checking.", -- 30
-  "I don’t like children until they are OUR children. What do you think about that?", -- 31
+	"I don’t like children until they are OUR children. What do you think about that?", -- 31
 	"Are you a clockwinder? Because my heart is ticking for you.", -- 32
-  "If you’re feeling down, I can feel you up.", -- 33
+	"If you’re feeling down, I can feel you up.", -- 33
 	"Did you feel the earthquake?! Or was it just me that felt my heart tremble at your sight?", -- 34
-  "Are you Siri? Because you autocomplete me", -- 35
+	"Are you Siri? Because you autocomplete me", -- 35
 	"How many people does it take to get a “happily ever after”? Just you and me.", -- 36
-  "Are you a volcano? Coz I lava you!", -- 37
+	"Are you a volcano? Coz I lava you!", -- 37
 	"I left my eyeglasses at home, can I get closer to see you better?", -- 38
-  "Are you a camera? Because every time I look at you, I smile.", -- 39
+	"Are you a camera? Because every time I look at you, I smile.", -- 39
 	"Now I know where I’ve seen you before, in every single dream I’ve ever had.", -- 40
-  "Thank god I have life insurance. Because you make my heart stop.", -- 41
+	"Thank god I have life insurance. Because you make my heart stop.", -- 41
 	"I truly hate spoilers, but I can totally see our ending being a happily ever after.", -- 42
-  "You’re so beautiful that you made me forget my pick-up line.", -- 43
+	"You’re so beautiful that you made me forget my pick-up line.", -- 43
 	"Do you like video games? I’ll let you play with my joystick.", -- 44
-  "Your lips look lonely. Wanna introduce them to mine?", -- 45
+	"Your lips look lonely. Wanna introduce them to mine?", -- 45
 	"I would love to visit the Eight Wonders of the World, including you.", -- 46
-  "Life without you is like a broken pencil. Pointless.", -- 47
+	"Life without you is like a broken pencil. Pointless.", -- 47
 	"How would you feel if I told you that I couldn’t take my eyes off of you since I walked in.", -- 48
-  "I know we’re not socks, but we make a great pair.", -- 49
+	"I know we’re not socks, but we make a great pair.", -- 49
 	"Did you know that we’re closer to the year 2050 than we are to 1995? And I’m feeling closer to you than I am to myself.", -- 50
-  "If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together.", -- 51
+	"If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together.", -- 51
 	"Do you believe in ghosts? One just whispered to me that our souls are connected.", -- 52
-  "Are you from Tennessee? Because you’re the only 10 I see!", -- 53
+	"Are you from Tennessee? Because you’re the only 10 I see!", -- 53
 	"Are you happy in life? I know I definitely will be with you.", -- 54
-  "I’m no photographer, but I can picture us together.", -- 55
+	"I’m no photographer, but I can picture us together.", -- 55
 	"I’m just going to go ahead and say it, you make my knees weak.", -- 56
-  "Are you a magician? When I look at you everything disappears.", -- 57
+	"Are you a magician? When I look at you everything disappears.", -- 57
 	"Is it too hot in here, or is it just you?", -- 58
-  "Hey, tie your shoes! I don’t want you falling for anyone else.", -- 59
+	"Hey, tie your shoes! I don’t want you falling for anyone else.", -- 59
 	"My therapist will definitely hear about how there was a “before and after” you.", -- 60
-  "Roses are red. Violets are blue. I didn’t know what perfect was until I met you.", -- 61
+	"Roses are red. Violets are blue. I didn’t know what perfect was until I met you.", -- 61
 	"Are you Spider-Man? You have me caught up in your web.", -- 62
-  "I’d rate you a nine because the only thing missing is me.", -- 63
+	"I’d rate you a nine because the only thing missing is me.", -- 63
 	"Did you know that the tongue is the strongest muscle in the body? Want to wrestle?", -- 64
-  "Do you have a name, or can I call you mine?", -- 65
+	"Do you have a name, or can I call you mine?", -- 65
 	"What’s your favorite meal? I can definitely be that for you.", -- 66
-  "Do you have an inhaler? You took my breath away.", -- 67
+	"Do you have an inhaler? You took my breath away.", -- 67
 	"Do you know the best position to lay in bed? Next to me.", -- 68
-  "What has 36 teeth and holds back the Incredible Hulk? My zipper.", -- 69
+	"What has 36 teeth and holds back the Incredible Hulk? My zipper.", -- 69
 	"When was the last time you saw someone as good looking as me?", -- 70
-  "If I was your first granted wish, what were the other two?", -- 71
-  "You make me feel like a soup, you’re stirring my emotions and bringing them afloat.", -- 72
-  "Are you a firework, cause i can light you up", -- 73
+	"If I was your first granted wish, what were the other two?", -- 71
+	"You make me feel like a soup, you’re stirring my emotions and bringing them afloat.", -- 72
+	"Are you a firework, cause i can light you up", -- 73
 }
